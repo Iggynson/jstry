@@ -12,7 +12,7 @@ console.log(!isClose);
 
 console.log(2 * 3 ** 2); 
 
-console.log(2 + 2 * 2 != '6'); 
+console.log(2 + 2 * 2 != '8'); 
 
 let isState = 'slave';
 
